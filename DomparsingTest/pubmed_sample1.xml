@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2015//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_150101.dtd">
+<PubmedBookArticle>
+    <BookDocument>
+        <PMID Version="1">24624464</PMID>
+        <ArticleIdList>
+            <ArticleId IdType="bookaccession">NBK189923</ArticleId>
+        </ArticleIdList>
+        <Book>
+            <Publisher>
+                <PublisherName>National Center for Biotechnology Information (US)</PublisherName>
+                <PublisherLocation>Bethesda (MD)</PublisherLocation>
+            </Publisher>
+            <BookTitle book="mlprobe">Probe Reports from the NIH Molecular Libraries Program</BookTitle>
+            <PubDate>
+                <Year>2010</Year>
+            </PubDate>
+            <BeginningDate>
+                <Year>2010</Year>
+            </BeginningDate>
+            <Medium>Internet</Medium>
+        </Book>
+        <ArticleTitle book="mlprobe" part="ml356">Selective inhibitors of FAS-TE</ArticleTitle>
+        <Language>eng</Language>
+        <AuthorList Type="authors">
+            <Author>
+                <LastName>Ardecky</LastName>
+                <ForeName>Robert</ForeName>
+                <Initials>R</Initials>
+            </Author>
+            <Author>
+                <LastName>Hedrick</LastName>
+                <ForeName>Michael P.</ForeName>
+                <Initials>MP</Initials>
+            </Author>
+            <Author>
+                <LastName>Gosalia</LastName>
+                <ForeName>Palak</ForeName>
+                <Initials>P</Initials>
+            </Author>
+            <Author>
+                <LastName>Yamamoto</LastName>
+                <ForeName>Fusayo</ForeName>
+                <Initials>F</Initials>
+            </Author>
+            <Author>
+                <LastName>Milewski</LastName>
+                <ForeName>Monika</ForeName>
+                <Initials>M</Initials>
+            </Author>
+            <Author>
+                <LastName>Barron</LastName>
+                <ForeName>Nikki</ForeName>
+                <Initials>N</Initials>
+            </Author>
+            <Author>
+                <LastName>Sun</LastName>
+                <ForeName>Qing</ForeName>
+                <Initials>Q</Initials>
+            </Author>
+            <Author>
+                <LastName>Zhou</LastName>
+                <ForeName>Jiwen</ForeName>
+                <Initials>J</Initials>
+            </Author>
+            <Author>
+                <LastName>Ganji</LastName>
+                <ForeName>Santhi</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Mehta</LastName>
+                <ForeName>Alka</ForeName>
+                <Initials>A</Initials>
+            </Author>
+            <Author>
+                <LastName>Sugarman</LastName>
+                <ForeName>Elliot</ForeName>
+                <Initials>E</Initials>
+            </Author>
+            <Author>
+                <LastName>Nguyen</LastName>
+                <ForeName>Kevin</ForeName>
+                <Initials>K</Initials>
+            </Author>
+            <Author>
+                <LastName>Vasile</LastName>
+                <ForeName>Stefan</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Suyama</LastName>
+                <ForeName>Eigo</ForeName>
+                <Initials>E</Initials>
+            </Author>
+            <Author>
+                <LastName>Teriete</LastName>
+                <ForeName>Peter</ForeName>
+                <Initials>P</Initials>
+            </Author>
+            <Author>
+                <LastName>Sheffler</LastName>
+                <ForeName>Douglas</ForeName>
+                <Initials>D</Initials>
+            </Author>
+            <Author>
+                <LastName>Lee</LastName>
+                <ForeName>Pooi San</ForeName>
+                <Initials>PS</Initials>
+            </Author>
+            <Author>
+                <LastName>Mattmann</LastName>
+                <ForeName>Margrith</ForeName>
+                <Initials>M</Initials>
+            </Author>
+            <Author>
+                <LastName>De Ingeniis</LastName>
+                <ForeName>Jessica</ForeName>
+                <Initials>J</Initials>
+            </Author>
+            <Author>
+                <LastName>Stonich</LastName>
+                <ForeName>Derek</ForeName>
+                <Initials>D</Initials>
+            </Author>
+            <Author>
+                <LastName>Mangravita-Novo</LastName>
+                <ForeName>Arianna</ForeName>
+                <Initials>A</Initials>
+            </Author>
+            <Author>
+                <LastName>Salaniwal</LastName>
+                <ForeName>Sumeet</ForeName>
+                <Initials>S</Initials>
+            </Author>
+            <Author>
+                <LastName>Kung</LastName>
+                <ForeName>Paul</ForeName>
+                <Initials>P</Initials>
+            </Author>
+            <Author>
+                <LastName>Diwan</LastName>
+                <ForeName>Jena</ForeName>
+                <Initials>J</Initials>
+            </Author>
+            <Author>
+                <LastName>Smith</LastName>
+                <ForeName>Layton H.</ForeName>
+                <Initials>LH</Initials>
+            </Author>
+            <Author>
+                <LastName>Sergienko</LastName>
+                <ForeName>Eduard</ForeName>
+                <Initials>E</Initials>
+            </Author>
+            <Author>
+                <LastName>Chung</LastName>
+                <ForeName>Thomas D.Y.</ForeName>
+                <Initials>TDY</Initials>
+            </Author>
+            <Author>
+                <LastName>Pinkerton</LastName>
+                <ForeName>Anthony B.</ForeName>
+                <Initials>AB</Initials>
+            </Author>
+            <Author>
+                <LastName>Cosford</LastName>
+                <ForeName>Nicholas D. P.</ForeName>
+                <Initials>NDP</Initials>
+            </Author>
+            <Author>
+                <LastName>Smith</LastName>
+                <ForeName>Jeffrey W.</ForeName>
+                <Initials>JW</Initials>
+            </Author>
+        </AuthorList>
+        <Abstract>
+            <AbstractText>Fatty acid synthase (FAS) is the single human enzyme that can convert dietary carbohydrate to fat. The FAS protein contains six enzymatic domains and an acyl-carrier protein (ACP). The final enzymatic pocket is a thioesterase (TE), which liberates the final product (palmitate) from its link to the ACP. Notably, FAS has only marginal importance in adults because dietary fat provides for normal physiology. However, a link between FAS and cancer was discovered in 1994 when Frank Kuhajda found that the OA-519 antigen, a marker for poor prognosis in breast and prostate cancer, is actually fatty acid synthase. A number of subsequent immunohistochemical analyses showed that increased expression of FAS is a hallmark of all major cancers including those of the prostate, the breast, the colon, and the ovaries. Therefore, FAS represents a compelling target for anticancer drug discovery. To our knowledge, no thioesterase (TE) has ever been targeted for drug development, including the TE domain of FAS. This report describes the discovery of a series of aminothiazoles as selective FAS-TE inhibitors. ML356, the lead compound from this series, is potent (IC50 = 0.334 ��M) and selective inhibitor of FAS-TE. The compounds are selective for FAS over a number of other human thioesterases expressed in tumor cells, and selective for the thioesterase domain of FAS over its most closely related human homolog, ACOT4. ML356 also blocks the biosynthesis of palmitate (the end product of FAS) in cells.</AbstractText>
+        </Abstract>
+        <Sections>
+            <Section>
+                <SectionTitle book="mlprobe" part="ml356" sec="ml356.s1">Probe Structure &amp; Characteristics</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">1</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml356" sec="ml356.s2">Recommendations for Scientific Use of the Probe</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">2</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml356" sec="ml356.s3">Materials and Methods</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">3</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml356" sec="ml356.s12">Results</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">4</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml356" sec="ml356.s16">Discussion</SectionTitle>
+            </Section>
+            <Section>
+                <LocationLabel Type="section">5</LocationLabel>
+                <SectionTitle book="mlprobe" part="ml356" sec="ml356.s19">References</SectionTitle>
+            </Section>
+        </Sections>
+        <ContributionDate>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </ContributionDate>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+        </DateRevised>
+    </BookDocument>
+    <PubmedBookData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24624464</ArticleId>
+        </ArticleIdList>
+    </PubmedBookData>
+</PubmedBookArticle>
